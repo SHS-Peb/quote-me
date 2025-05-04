@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    background: #a69494;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,11 +11,20 @@ body {
     background: rgb(210, 164, 202);
     padding: 2em;
     border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.8);
     text-align: center;
     max-width: 500px;
   }
   
+  #quote {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+  }
   
+  #author {
+    font-style: italic;
+    color: #555;
+  }
   
   button {
     padding: 0.5em 1em;
