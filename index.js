@@ -10,3 +10,5 @@ function handleQuote(response) {
   }
   
   document.getElementById('new-quote').addEventListener('click', getQuote);
+
+  getQuote();
