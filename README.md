@@ -1,6 +1,6 @@
 # Quote Me
 
-## 📖 Description
+## Description
 
 **Quote Me** is a simple, responsive web application that displays inspirational quotes using the [Forismatic API](https://forismatic.com/en/api/). Each time the user clicks the “New Quote” button, a fresh quote is fetched and displayed along with the author’s name.
 
