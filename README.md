@@ -28,7 +28,7 @@ This project is perfect for practicing API integration, DOM manipulation, and wo
 
 ## Screenshot
 
-![Quote Me Screenshot](./images/quote.png)
+![Quote Me Screenshot](./images/quote.PNG)
 
 ---
 
